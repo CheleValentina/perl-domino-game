@@ -1,2 +1,2 @@
-# DominoGrame
-A multiplayer Domino Game written in Perl
+# perl-domino-game
+A multiplayer Domino game written in Perl
