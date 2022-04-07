@@ -5,7 +5,6 @@ use base 'Exporter';
 use List::Util qw(all);
 use Try::Tiny;
 use Test::More;
-use Data::Dumper;
 our @EXPORT =
   qw(fisher_yates_shuffle add_piece_to_player get_starting_card_and_player change_players_order
   is_element_contained_by_array are_two_arrays_of_cards_equal play_piece has_player_options);

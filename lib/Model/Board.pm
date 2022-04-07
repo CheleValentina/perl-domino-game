@@ -4,8 +4,6 @@ use Moose;
 use Moose::Util::TypeConstraints;
 use List::MoreUtils qw(uniq);
 use Array::Utils qw(array_diff);
-use Data::Dumper;
-use Test::More;
 
 use Model::Player;
 use Model::Piece;

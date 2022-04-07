@@ -4,7 +4,6 @@ use strict;
 use warnings;
 
 use Nice::Try;
-use Data::Dumper;
 use List::Util qw(min max);
 use List::Util qw(all);
 use Game;
